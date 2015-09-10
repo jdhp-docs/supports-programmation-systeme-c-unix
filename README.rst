@@ -10,7 +10,8 @@ Copyright (c) 2012,2013,2014,2015 Jeremie DECOCK (http://www.jdhp.org)
 Description
 ===========
 
-This repository contains the source files of the following lecture (in French):
+This repository contains the source files of teaching materials for the
+following lecture (in French):
 *Introduction à la programmation système C sous Unix*, presented by Jérémie
 Decock at *IUT d'Orsay* (France) in 2013.
 
